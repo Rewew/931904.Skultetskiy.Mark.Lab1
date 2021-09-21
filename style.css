@@ -1,0 +1,118 @@
+body 
+{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header 
+{
+    height: 25px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.tsu_link 
+{
+    text-align: center;
+    margin-bottom: 0em;
+}   
+
+.tsu_link a 
+{
+    color: red;
+}
+
+h2 
+{
+    margin: 0em;
+    word-spacing: 6px;
+}
+
+.here 
+{
+    color: red;
+}
+
+ul li:nth-child(2) 
+{
+    color: aqua;
+    letter-spacing: 7px;
+}
+
+.content 
+{
+    height: 700px;
+    background-color: blue;
+    width: 540px;
+    color: white;
+    margin: auto;
+    padding: 1px 25px;
+}
+
+.border 
+{
+    border: 5px solid white;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px 0px 20px 0px;
+    box-sizing: padding-box;
+    float: left;
+    margin: 0 15px 40px 0;
+}
+
+footer 
+{
+    height: 20px;
+    background-color: green;
+    color: white;    
+    text-align: center;
+    padding: 6px;
+}
+
+p 
+{
+    font-size: 20px;
+    line-height: 1.0;
+}
+
+h3 .h3_content
+{
+    margin: 0.5em;
+}
+
+img 
+{
+    float: right;
+    margin: 10px 5px 0px 0px;
+}
+
+li 
+{
+    padding: 5px;
+}
+
+table 
+{
+    width: 150px; 
+    height: 110px; 
+    border-style:solid;
+    border-color:white;
+    border-width:1px;
+    margin: 7px;
+    float: right;
+}
+
+td 
+{
+    border-style:solid;
+    border-width:1px;
+    border-color:white;
+    text-align:center;
+    vertical-align:bottom;
+    color:white;
+}
